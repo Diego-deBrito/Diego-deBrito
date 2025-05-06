@@ -1,6 +1,10 @@
-Fala aí! Eu sou o Diego Brito 👨‍💻🚀
-Entusiasta de tecnologia, eterno curioso e criador de soluções criativas.
-Desde 2019, estou nessa jornada fascinante pela Ciência da Computação — e foi em 2020 que dei vida ao meu primeiro projeto real. Desde então, não parei mais.
+<div align="center">
+  <h1>Fala aí! Eu sou o Diego Brito 👨‍💻🚀</h1>
+  <p><strong>Desenvolvedor  | Python | Automação | Análise de Dados</strong></p>
+  <p>Entusiasta de tecnologia, eterno curioso e criador de soluções criativas.
+Desde 2019, estou nessa jornada fascinante pela Ciência da Computação — e foi em 2020 que dei vida ao meu primeiro projeto real. Desde então, não parei mais.</p>
+  <p>Brasília - DF | 🇧🇷</p>
+</div>
 
 Hoje, cada linha de código é uma chance de transformar ideias em impacto.
 
